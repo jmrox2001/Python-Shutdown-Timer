@@ -5,6 +5,7 @@ This simple application allows you to schedule a shutdown of your computer after
 Prerequisites:
 - Python installed on your system.
 - Tkinter library (usually included with Python installations). If Tkinter is not installed, you can install it using the following pip command: "pip install tk"
+
 - Usage:
 1. Run the 'shutdown_timer.pyw' script.
 2. Enter the desired hours and/or minutes in the respective fields.
